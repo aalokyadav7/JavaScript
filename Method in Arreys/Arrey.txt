@@ -1,0 +1,58 @@
+SPLICE 
+
+The toSpliced() method adds and/or removes array elements.
+
+The toSpliced() method returns a new array.
+
+The toSpliced() method does not change the original array.
+
+The toSpliced() method is the copying version of the splice() method.
+
+----------------------------------------------------------------
+
+POP:
+The pop() method removes (pops) the last element of an array.
+
+The pop() method changes the original array.
+
+The pop() method returns the removed element.
+
+-------------------------------------------------
+
+PUSH:
+The push() method adds new items to the end of an array.
+
+The push() method changes the length of the array.
+
+The push() method returns the new length.
+
+-----------------------------------------------
+SHIFT:
+
+The shift() method removes the first item of an array.
+
+The shift() method changes the original array.
+
+The shift() method returns the shifted element.
+
+-----------------------------------------------
+
+slice:
+
+The slice() method returns selected elements in an array, as a new array.
+
+The slice() method selects from a given start, up to a (not inclusive) given end.
+
+The slice() method does not change the original array.
+
+
+--------------------------------------------------
+toSpliced:
+
+The toSpliced() method adds and/or removes array elements.
+
+The toSpliced() method returns a new array.
+
+The toSpliced() method does not change the original array.
+
+The toSpliced() method is the copying version of the splice() method.
