@@ -8,6 +8,9 @@ object literals
 const mySym = Symbol("Key1")
 
 
+/* This syentex is Object literal
+---------------------------------
+*/
 
 const JsUser = {
     name: "Alok",
